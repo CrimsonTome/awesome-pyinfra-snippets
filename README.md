@@ -2,6 +2,23 @@
 
 > A list of awesome snippets to use with [Pyinfra](https://pyinfra.com/).
 
+## System Requirements
+
+- Python 3 + pip
+- [pipx](https://pypa.github.io/pipx/installation/)
+- Linux (Windows may work but is untested)
+
+## Getting Started
+
+- `pipx install pyinfra`
+- (strongly recommended) have a valid SSH config file with your SSH keys added to any target machines with `ssh-copy-id` - snippets in this repo will likely assume you have one
+
+### To Run
+
+To run snippets: `pyinfra target-or-target-file path/to/snippet.py`
+
+TODO: add example
+
 ## Snippets
 
 Snippets can be found in the [snippets](/snippets) folder. See also examples from the [official repo](https://github.com/Fizzadar/pyinfra/tree/2.x/examples)
