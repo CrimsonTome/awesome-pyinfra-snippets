@@ -4,7 +4,7 @@
 
 ## Snippets
 
-Snippets can be found in the [snippets](/snippets) folder.
+Snippets can be found in the [snippets](/snippets) folder. See also examples from the [official repo](https://github.com/Fizzadar/pyinfra/tree/2.x/examples)
 
 ## Disclaimers
 
