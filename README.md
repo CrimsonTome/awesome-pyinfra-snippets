@@ -1,6 +1,10 @@
 # awesome-pyinfra-snippets
 
-> A list of awesome snippets to use with Pyinfra.
+> A list of awesome snippets to use with [Pyinfra](https://pyinfra.com/).
+
+## Snippets
+
+Snippets can be found in the [snippets](/snippets) folder.
 
 ## Disclaimers
 
